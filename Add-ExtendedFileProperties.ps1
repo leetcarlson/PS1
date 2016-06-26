@@ -1,0 +1,1 @@
+﻿Get-ChildItem c:\scripts | Add-ExtendedFileProperties.ps1 | Format-Table Name,"Bit Rate"
